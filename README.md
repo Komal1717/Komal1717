@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi — I'm Komal 👋  
+**Software Test Engineer | Automation • API • Performance • Security**
 
-<!--
-**Komal1717/Komal1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently: QA at Jupitice — Automation for Digital Justice  
+🌱 Learning: Advanced SDET design, CI pipelines, reproducible RNG testing  
+💬 Ask me about: Selenium • Playwright • Appium • RestAssured • JMeter • OWASP ZAP  
+📫 Reach me: komalmedhiarya@gmail.com | linkedin.com/in/yourprofile  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects  
+- **BastaAutomation** — Full Selenium + TestNG + POM Framework (CI-integrated)  
+- **RNG-Validator** — Fairness & randomness testing toolkit  
+- **Playwright-Demo** — Cross-browser automated flows in headless mode  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Java, Python  
+**Automation:** Selenium, Playwright, Appium  
+**API Testing:** RestAssured, Postman, Swagger  
+**Performance:** JMeter  
+**Security:** OWASP ZAP  
+**CI/CD:** Jenkins, GitHub Actions  
+**Other:** MySQL, Maven, TestNG  
+
+---
+
+Thanks for visiting!  
+✨ Check my pinned repositories below!
